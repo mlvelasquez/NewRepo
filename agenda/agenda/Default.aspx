@@ -11,7 +11,7 @@
                <p class="text-center"> INTEGRANTES DEL PROYECTO </p>
                 <p class="text-center">MAYNOR LOMBARDO VELASQUEZ PEÑA</p> 
                  <p class="text-center">MAYKEL JOSE DAVILA CERRROS</p>
-        
+            <p>solo probar guardar</p>
              </div>
         </div>
     <div class="row ">

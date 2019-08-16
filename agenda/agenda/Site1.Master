@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="agenda.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <link href="diseno/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="diseno/css/estilos.css" rel="stylesheet" />
+
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <header>
+          <div class="row">
+             <div class="col-12">
+                <h1>PROYECTO DE AGENDA</h1>
+             </div>
+        </div>
+
+            <div class="row">       
+                <nav class="navbar navbar-default">
+                   <ul class="nav navbar-nav">
+                       <li>
+                            <a href="Loguear.aspx">HOME</a>
+                       </li>
+                       <li>
+                           <a href="Loguear.aspx">LOGIN</a>
+
+                       </li>
+                       <li>
+                           <a href="Insertar.aspx">ADD</a>
+                       </li>
+                       <li>
+                           <a href="redes sociales"></a>
+                       </li>
+                   </ul>
+                </nav>
+                    </div>
+         
+        <div class="row">
+          <div class="col-12">
+            <nav>
+               -0-0-0-0
+            </nav>
+           </div>
+        </div>
+                    
+                </header>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script src="falta"
+
+</body>
+</html>
